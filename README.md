@@ -278,3 +278,25 @@ Step into the future of interaction.
 🐍 Python community – Open-source ecosystem
 
 💡 Inspiration from AI + CV + HCI research
+
+
+
+
+
+
+
+
+## 🔄 New Update (v2) – Smarter & Smoother Control
+
+I recently updated the project to make it **more stable, more adaptive, and more user-friendly** 🚀
+
+### ✨ Key Enhancements:
+- 📏 **Resolution-independent control** – works on any screen size  
+- ✋ **Improved gesture classification** – detects fingers up/down reliably  
+- ⚡ **Debouncing logic** – prevents false triggers with confirm frames & cooldown  
+- 🔄 **State machine stability** – smoother transition between Brake 🛑 and Gas 🏎️  
+- 🖼️ **Visual UI feedback** – glowing Brake/Gas indicators on screen  
+- ✅ **Safe shutdown** – prevents stuck keys on exit  
+
+Check out the updated [`main.py`](main.py) 👈
+
