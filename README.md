@@ -91,15 +91,15 @@ Together, they form a gesture-based driving control system where:
 
 🕹️ Works with Driving Games → Any game that uses keyboard input
 
-🛠 Tech Stack 🚀
-Technology	Purpose	Emoji
-Python 🐍	Core programming language	🟦
-OpenCV 📸	Real-time video capture & processing	🎥
-MediaPipe ✋	21-point hand landmark detection	🖐️
-NumPy 🔢	Numerical operations	📊
-DirectKeys / PyAuto ⌨️	Key press simulation	🎮
-Time ⏱️	Delay & timing control	⌚
-📂 Project Structure 📁
+| Technology                 | Purpose                              | Emoji |
+| -------------------------- | ------------------------------------ | ----- |
+| **Python 🐍**              | Core programming language            | 🟦    |
+| **OpenCV 📸**              | Real-time video capture & processing | 🎥    |
+| **MediaPipe ✋**            | 21-point hand landmark detection     | 🖐️   |
+| **NumPy 🔢**               | Numerical operations                 | 📊    |
+| **DirectKeys / PyAuto ⌨️** | Key press simulation                 | 🎮    |
+| **Time ⏱️**                | Delay & timing control               | ⌚     |
+
 Gesture-Drive-AI/
 │
 ├── main.py              # 🎯 Core script: CV + gesture mapping
